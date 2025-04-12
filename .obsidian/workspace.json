@@ -1,0 +1,298 @@
+{
+  "main": {
+    "id": "e95b6dde41f55ca2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d4adc9149d1fc9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be808eaa46d8148a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "bb6eabab5b190f99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AutosarVault/DSA/Dynamic Programming(DP)/DP 1D.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DP 1D"
+            }
+          },
+          {
+            "id": "92e76884bbd53284",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AutosarVault/DSA/Dynamic Programming(DP)/DP 2D-3D and DP on Grids.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DP 2D-3D and DP on Grids"
+            }
+          },
+          {
+            "id": "3fde7ef89be2ca23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AutosarVault/DSA/Dynamic Programming(DP)/DP on Sub-sequences.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DP on Sub-sequences"
+            }
+          },
+          {
+            "id": "6186474e33f966b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AutosarVault/DSA/Dynamic Programming(DP)/DP on Strings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DP on Strings"
+            }
+          },
+          {
+            "id": "78c24e8c377de448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AutosarVault/DSA/Dynamic Programming(DP)/DP on Stocks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DP on Stocks"
+            }
+          },
+          {
+            "id": "75647e45210b4e40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AutosarVault/DSA/Dynamic Programming(DP)/DP on LIS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DP on LIS"
+            }
+          },
+          {
+            "id": "abf356efb5d56c05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AutosarVault/DSA/Dynamic Programming(DP)/MCM DP - Partition DP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MCM DP - Partition DP"
+            }
+          },
+          {
+            "id": "ed1215a91b47a770",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AutosarVault/DSA/Dynamic Programming(DP)/Dynamic Programming (DP).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dynamic Programming (DP)"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19e4de9bb4ea7463",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1fee772ba028d64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4398a1bb1e423f50",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f1b9bbb4a423f480",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "46c994a982d27f70",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d2d915533fa2c7e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ee5a8272f616f93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a183dfba0d24cce1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AutosarVault/DSA/Dynamic Programming(DP)/Dynamic Programming (DP).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Dynamic Programming (DP)"
+            }
+          },
+          {
+            "id": "6c22f0ba6460f970",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AutosarVault/DSA/Dynamic Programming(DP)/Dynamic Programming (DP).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Dynamic Programming (DP)"
+            }
+          },
+          {
+            "id": "723a6b6d5bcdc6ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2d5dd3765fe79080",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AutosarVault/DSA/Dynamic Programming(DP)/Dynamic Programming (DP).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dynamic Programming (DP)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ed1215a91b47a770",
+  "lastOpenFiles": [
+    "AutosarVault/DSA/Dynamic Programming(DP)/DP on Sub-sequences.md",
+    "AutosarVault/DSA/Dynamic Programming(DP)/Dynamic Programming (DP).md",
+    "AutosarVault/DSA/Dynamic Programming(DP)/DP 2D-3D and DP on Grids.md",
+    "AutosarVault/DSA/Dynamic Programming(DP)/DP 1D.md",
+    "AutosarVault/DSA/Dynamic Programming(DP)/DP on Squares.md",
+    "AutosarVault/DSA/Dynamic Programming(DP)/MCM DP - Partition DP.md",
+    "AutosarVault/DSA/Dynamic Programming(DP)/DP on LIS.md",
+    "AutosarVault/DSA/Dynamic Programming(DP)/DP on Stocks.md",
+    "AutosarVault/DSA/Dynamic Programming(DP)/DP on Strings.md",
+    "AutosarVault/Welcome.md",
+    "README.md",
+    "AutosarVault/DSA/DSA.md",
+    "AutosarVault/DSA/Sorting Algorithms/Sorting algorithms.md",
+    "AutosarVault/Autosar/Interface.md",
+    "AutosarVault/Autosar/Introduction.md"
+  ]
+}
