@@ -1,0 +1,1 @@
+Defines how to **convert between internal software representation** (raw values used in ECU software) and **external representation** (values seen by diagnostic tools, calibration engineers, or transmitted over communication buses like CAN, LIN, etc.).
