@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Autosar/COMPU Methods.md",
+                "file": "OS/Operating System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COMPU Methods"
+              "title": "Operating System"
             }
           }
         ]
@@ -171,14 +171,16 @@
   },
   "active": "5f376dbb50fe6d73",
   "lastOpenFiles": [
+    "Pasted image 20250420222428.png",
+    "Autosar/Software Component.md",
+    "OS/Operating System.md",
+    "Autosar/COMPU Methods.md",
     "Autosar/RTE.md",
     "Autosar/Queued Communication.md",
-    "Autosar/COMPU Methods.md",
     "DSA/DSA.md",
     "DSA/Dynamic Programming(DP)/Dynamic Programming (DP).md",
     "DSA/Sorting Algorithms/Sorting algorithms.md",
     "Autosar/Autosar.md",
-    "OS/Operating System.md",
     "OS",
     "Untitled 3",
     "Untitled 2",
