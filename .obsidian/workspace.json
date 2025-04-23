@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7d4adc9149d1fc9b",
+        "id": "15208afeb4df9b35",
         "type": "tabs",
         "children": [
           {
-            "id": "be808eaa46d8148a",
+            "id": "852b03bf49439f55",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "AutosarVault/DSA/Graphs/Graphs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Graphs"
             }
           }
         ]
@@ -164,12 +168,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be808eaa46d8148a",
+  "active": "852b03bf49439f55",
   "lastOpenFiles": [
-    "Pasted image 20250421202908.png",
-    "Pasted image 20250421201103.png",
+    "AutosarVault/Autosar/Interface.md",
+    "2025-04-23.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "AutosarVault/OS/Operating System.md",
     "AutosarVault/OS/MISC.md",
+    "AutosarVault/DSA/DSA.md",
+    "Pasted image 20250421202908.png",
+    "Pasted image 20250421201103.png",
     "AutosarVault/OS",
     "AutosarVault/DSA/Sorting Algorithms/Sorting algorithms.md",
     "AutosarVault/DSA/Sorting Algorithms",
@@ -190,14 +199,11 @@
     "AutosarVault/DSA/Dynamic Programming(DP)/DP 2D-3D and DP on Grids.md",
     "AutosarVault/DSA/Dynamic Programming(DP)/DP 1D.md",
     "AutosarVault/DSA/Dynamic Programming(DP)",
-    "AutosarVault/DSA/DSA.md",
     "AutosarVault/DSA",
     "AutosarVault/Autosar/Software Component.md",
     "AutosarVault/Autosar/RTE.md",
     "AutosarVault/Autosar/Queued Communication.md",
-    "AutosarVault/Autosar/Interface.md",
     "AutosarVault/Autosar/COMPU Methods.md",
-    "AutosarVault/Autosar/Autosar.md",
     "AutosarVault/Autosar",
     "AutosarVault/chmodImage.png",
     "AutosarVault",

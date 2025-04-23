@@ -1,5 +1,5 @@
 Interface between user and hardware. 
-
+[[MISC]]
 Major uses:
 1. Resource management -> single server handling multiple users, convenience of using hardware
 2. Process management -> decides which tasks to run on the cpu
