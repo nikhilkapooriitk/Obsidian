@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AutosarVault/DSA/Graphs/Graphs.md",
+                "file": "AutosarVault/DSA/Data Structures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graphs"
+              "title": "Data Structures"
+            }
+          },
+          {
+            "id": "f80d3d7514d9d81b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AutosarVault/DSA/DSA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DSA"
             }
           }
         ]
@@ -170,13 +184,15 @@
   },
   "active": "852b03bf49439f55",
   "lastOpenFiles": [
+    "AutosarVault/DSA/DSA.md",
+    "AutosarVault/DSA/Data Structures.md",
+    "AutosarVault/DSA/Graphs/Graphs.md",
     "AutosarVault/Autosar/Interface.md",
     "2025-04-23.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "AutosarVault/OS/Operating System.md",
     "AutosarVault/OS/MISC.md",
-    "AutosarVault/DSA/DSA.md",
     "Pasted image 20250421202908.png",
     "Pasted image 20250421201103.png",
     "AutosarVault/OS",
@@ -186,7 +202,6 @@
     "AutosarVault/DSA/Graphs/Shortest path algo.md",
     "AutosarVault/DSA/Graphs/Other Graph Algo.md",
     "AutosarVault/DSA/Graphs/Minimum Spanning Tree - Disjoint Set.md",
-    "AutosarVault/DSA/Graphs/Graphs.md",
     "AutosarVault/DSA/Graphs/BFS-DFS.md",
     "AutosarVault/DSA/Graphs",
     "AutosarVault/DSA/Dynamic Programming(DP)/MCM DP - Partition DP.md",
