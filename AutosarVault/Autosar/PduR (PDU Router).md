@@ -1,6 +1,6 @@
--> Responsible for routing the PDU to the respective Bus Specific Interface Modules
--> Above the PduR module, all PDUs are protocol independent (Payload used instead of PDU id). Below PduR, PDUs are directed to protocol specific modules.
--> PduR interacts with COM, DCM, IPduM, LinIf, CanIf, CanNm, FrIf FrNm, CanTp, FrTp modules
+- Responsible for routing the PDU to the respective Bus Specific Interface Modules
+- Above the PduR module, all PDUs are protocol independent. Below PduR, PDUs are directed to protocol specific modules.
+- PduR interacts with COM, DCM, IPduM, LinIf, CanIf, CanNm, FrIf FrNm, CanTp, FrTp modules
 ![[Pasted image 20250625001854.png]]
 
 Pdu Router routing table contains static PDU ids. PDU Ids are used to determine the destination of an IPdu.
@@ -8,8 +8,7 @@ Pdu Router routing table contains static PDU ids. PDU Ids are used to determine 
 Important functions of PduR:
 - PDU reception from below modules and sending to DCM and COM
 - PDU transmission from DCM, COM and sending to below modules
-- PDU Gateway (send data from one comm protocol to other protocol (flexray to can frame))
-
+- PDU Gateway (send data from one comm protocol to other protocol (ex: flexray to can frame))
 ##### IPDU Handling
 Each Bsw Module that handles I-pdu (COM, canIf, PduR) contain a list of PDU Ids. PduR identifies the routing path by checking source I-PduID (located in PDUR configuration) and destination i-Pdu Id (located in destination module configuration).
 Ex: If COM module transmits same i-pdu to canIf and LinIf. The PduR-ComTransmit is called. PduR will convert the source i-pdu id to one i-pdu id for LinIf ( LinIf module config) and one i-pdu id for canIf (canIf module config). PduInfoType value received from COM module is copied to the CanIF and LinIf modules without change.
